@@ -1,0 +1,6 @@
+{
+  "name": "auto-model",
+  "description": "The auto-model mod for Claude Code.",
+  "owner": { "name": "Connnny" },
+  "plugins": [{ "name": "auto-model", "source": "./" }]
+}

@@ -1,1 +1,1 @@
-{ "name": "auto-model", "version": "0.1.0", "description": "Picks haiku, sonnet or opus for each prompt from the kind of job it asks for." }
+{ "name": "auto-model", "version": "0.1.0", "description": "Picks Haiku or Opus 5.5 for each prompt from the kind of job it asks for, and asks you when the job is unclear.", "author": { "name": "Connnny" }, "license": "MIT" }
